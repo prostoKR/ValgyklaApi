@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 
-//import lt.vtmc.valgykla.models.ERole;
+import lt.vtmc.valgykla.models.ERole;
 
 @Entity
 @Table(name = "roles")
